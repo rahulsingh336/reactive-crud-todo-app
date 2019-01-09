@@ -1,0 +1,35 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### Ingore local files ###
+colors.scheme.xml
+debugger.xml
+editor.xml
+find.xml
+ide*.xml
+scala.xml
+ui.Inf.xml
+vim_settings.xml
+mavenVersion.xml
